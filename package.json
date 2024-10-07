@@ -11,8 +11,13 @@
   "devDependencies": {
     "@chainlink/contracts": "^1.2.0",
     "@chainlink/env-enc": "^1.0.5",
+    "@nomicfoundation/hardhat-ethers": "^3.0.8",
     "@nomicfoundation/hardhat-toolbox": "^5.0.0",
     "dotenv": "^16.4.5",
-    "hardhat": "^2.22.12"
+    "ethers": "^6.13.3",
+    "hardhat": "^2.22.12",
+    "hardhat-deploy": "^0.12.4",
+    "hardhat-deploy-ethers": "^0.4.2",
+    "hardhat-gas-reporter": "^2.2.1"
   }
 }
